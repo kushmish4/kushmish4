@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! My name is Kushagra Mishra and I am a Full Stack Developer and Graphic Designer. I have a passion for creating visually appealing and functional websites and applications.<br><br>As a full stack developer, I have a strong understanding of both front-end and back-end development. I am proficient in languages such as HTML, CSS, JavaScript, and PHP, and I have experience working with frameworks such as React and Laravel. I enjoy the challenge of taking a project from conception to deployment, and I am always looking for ways to improve my skills and stay up-to-date on the latest technologies.<br><br>In addition to my development skills, I also have a background in graphic design. I have experience using software such as Adobe Creative Suite (Photoshop, Illustrator, and InDesign) to create visually stunning designs for websites, social media, and other marketing materials. I am skilled at creating graphics that are both aesthetically pleasing and effective at conveying a message.<br><br>Overall, my combination of development and design skills allows me to bring a unique perspective to projects and create dynamic, fully-realized solutions. I am excited to continue learning and growing in my career as a full stack developer and graphic designer.
+So yeah Hi...My name is Kushagra Mishra and I am a full stack developer and graphic designer. I have a passion for creating visually appealing and functional websites and applications.
+
+As a full stack developer, I have a strong Foundations of both front-end and back-end development. I am proficient in languages such as HTML, CSS, JavaScript, and Currently i am learning  frameworks such as Node.js. and I am always looking for ways to improve my skills and stay up-to-date on the latest technologies.
+
+In addition to my development skills, I also have a background in graphic design. I have experience using software such as Adobe Creative Suite (Photoshop, Illustrator, and InDesign) to create visually stunning designs for websites, social media, and other marketing materials. I can create graphics that are both aesthetically pleasing and effective at conveying a message.
+
+I am excited to bring my unique combination of development and design skills to new opportunities and challenges. Whether it's creating a website from scratch or improving the user experience of an existing application, I am confident in my ability to deliver high-quality work.
 
 
 ## 🌐 Socials:
